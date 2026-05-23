@@ -1,0 +1,2 @@
+lead_id,timestamp,name,mobile,email,city,area,state,interest,score,visit_confirmed,notes
+LEAD-001,2026-05-23 19:48:06,Rahul Sharma,+919876543210,rahul@example.com,Noida,Sector 18,Uttar Pradesh,SUV,HOT,YES,Interest: suv | Q1: price
